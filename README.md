@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:<\br>
+Here's a walkthrough of implemented user stories:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65844160/107128991-e279e100-6876-11eb-82f9-113469f7f766.gif)
 
