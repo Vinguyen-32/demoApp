@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:<\br>
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65844160/107128991-e279e100-6876-11eb-82f9-113469f7f766.gif)
 
 GIF created with QuickTimePlayer
@@ -37,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Vi Nguyen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
